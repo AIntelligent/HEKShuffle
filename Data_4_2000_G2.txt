@@ -1,16 +1,32 @@
+Runs Test's Result Information:
+
+	If;
+		-1.96 <= Z <= +1.96 :: 95% confidence interval
+		-2.54 <= Z <= +2.54 :: 90% confidence interval
+	then the data is randomly distributed.
+
+Hypothesis:
+
+	Null hypotesis (H0): Data is randomly distributed.
+	Alternative hypotesis (H1): Data is not randomly distributed.
+	
+Symbolic of Runs:
+
+	0: ─
+	1: ┼ 
 
 =================================================================================
-Tekrar: 1 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 1 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 35.300µsec        HEK Shuffle: 17.500µsec
+Fisher-Yates Shuffle: 35.300µsec         HEK Shuffle: 17.500µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1014                     Run sayısı (R): 982
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: 0,58                            Z skoru: -0,85
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1014                 Number of Runs (R): 982
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: 0,58                            Z-score: -0,85
+Result: H0                               Result: H0
 
 ─┼┼┼─┼┼┼┼──┼──┼┼─┼┼┼───┼─┼──┼┼┼─┼─┼┼─┼┼─ ┼┼──┼──┼──┼┼──┼─┼┼┼─┼┼┼─┼┼─┼┼┼─┼──┼┼┼─┼─
 ─┼──┼───┼─┼┼┼─┼┼┼┼─┼┼┼┼─┼┼─┼┼┼──┼┼┼─┼┼─┼ ┼──┼─┼┼─┼─┼─┼┼──┼───────┼─┼──┼┼┼┼┼─┼──┼─
@@ -64,17 +80,17 @@ Sonuç: H0                                Sonuç: H0
 ─┼┼─┼┼─┼───┼─────┼┼┼─┼─┼──┼───────┼──┼── ───┼───┼┼──┼──┼──┼┼───┼┼──┼┼┼────┼────┼─
 
 =================================================================================
-Tekrar: 2 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 2 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 34.100µsec        HEK Shuffle: 16.700µsec
+Fisher-Yates Shuffle: 34.100µsec         HEK Shuffle: 16.700µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1030                     Run sayısı (R): 994
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: 1,30                            Z skoru: -0,31
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1030                 Number of Runs (R): 994
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: 1,30                            Z-score: -0,31
+Result: H0                               Result: H0
 
 ─┼┼┼┼──────┼─────┼─┼┼───┼─┼┼─────────┼── ─┼┼┼┼┼─┼┼─┼┼┼──┼─┼──┼┼┼─┼─┼┼┼─┼──┼┼┼┼┼┼┼
 ──┼┼────┼──┼┼─┼┼─┼┼──────┼┼───┼──┼─┼─┼┼┼ ┼┼─────┼───┼┼┼┼─┼──┼┼┼─┼┼───┼┼─┼──┼┼─┼┼┼
@@ -128,17 +144,17 @@ Sonuç: H0                                Sonuç: H0
 ───┼┼┼┼┼┼┼─┼───┼┼┼──┼┼┼─┼───────┼┼┼┼─┼┼─ ┼─┼┼─┼┼─┼─┼┼┼┼─┼────┼┼─┼┼┼┼┼───┼┼┼┼─────
 
 =================================================================================
-Tekrar: 3 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 3 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 35.000µsec        HEK Shuffle: 18.400µsec
+Fisher-Yates Shuffle: 35.000µsec         HEK Shuffle: 18.400µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 973                      Run sayısı (R): 973
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: -1,25                           Z skoru: -1,25
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 973                  Number of Runs (R): 973
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: -1,25                           Z-score: -1,25
+Result: H0                               Result: H0
 
 ───┼───┼──┼┼─┼┼┼┼─┼┼┼─┼──┼┼──┼┼──┼─┼┼┼┼─ ───┼──┼┼┼┼──┼─┼┼───┼┼─┼┼──┼┼──┼──┼┼──┼──
 ─┼┼──┼─┼──┼─┼┼─┼─┼┼─┼─┼┼┼┼───┼───┼┼─┼──┼ ┼┼──┼──┼──┼─┼───┼┼┼┼────┼┼─────┼┼┼─┼┼──┼
@@ -192,17 +208,17 @@ Sonuç: H0                                Sonuç: H0
 ┼┼──────┼─┼───┼──┼──┼┼─┼┼┼┼┼─┼┼┼┼─────── ┼──┼─┼───┼──┼┼┼┼───┼┼┼┼─┼┼┼┼─┼────┼─┼┼──
 
 =================================================================================
-Tekrar: 4 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 4 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 35.800µsec        HEK Shuffle: 16.700µsec
+Fisher-Yates Shuffle: 35.800µsec         HEK Shuffle: 16.700µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1016                     Run sayısı (R): 1038
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: 0,67                            Z skoru: 1,66
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1016                 Number of Runs (R): 1038
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: 0,67                            Z-score: 1,66
+Result: H0                               Result: H0
 
 ┼──┼───┼┼─┼─┼┼┼─┼────┼──┼───┼─┼─┼─┼──┼── ─┼┼─┼─┼─┼──┼──┼┼─┼┼─┼──┼┼─┼┼┼┼─┼┼┼┼┼─┼──
 ──┼─┼─┼┼┼─┼─────┼───┼┼┼───┼┼┼───┼───┼─┼┼ ┼─┼┼┼┼┼─┼───┼───┼┼┼┼┼┼┼─┼──┼─┼┼┼─┼┼┼─┼┼─
@@ -256,17 +272,17 @@ Sonuç: H0                                Sonuç: H0
 ┼┼┼┼─┼─┼┼┼┼─┼─┼┼┼─┼┼┼┼┼────┼┼┼┼┼─┼┼──┼─┼ ┼┼┼┼┼┼───┼──┼┼───┼┼┼──┼┼┼┼┼─┼─┼┼┼┼─┼─┼┼─
 
 =================================================================================
-Tekrar: 5 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 5 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 34.000µsec        HEK Shuffle: 16.400µsec
+Fisher-Yates Shuffle: 34.000µsec         HEK Shuffle: 16.400µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1009                     Run sayısı (R): 1010
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: 0,36                            Z skoru: 0,40
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1009                 Number of Runs (R): 1010
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: 0,36                            Z-score: 0,40
+Result: H0                               Result: H0
 
 ┼┼┼─┼┼─┼┼───┼┼┼──┼──┼──┼┼─┼───┼─────┼─── ┼┼┼──────┼┼┼─┼┼────┼┼┼──┼──┼─┼──┼───┼┼┼─
 ┼─┼──┼┼─┼┼┼──┼──┼──┼┼┼┼─┼────┼┼─┼┼┼┼──── ┼────┼┼┼─┼──┼┼┼┼─┼┼─┼─┼─┼─┼┼──────┼┼──┼─
@@ -320,17 +336,17 @@ Sonuç: H0                                Sonuç: H0
 ─┼──┼┼┼─┼───┼──┼──┼─┼┼┼─┼─┼┼┼┼┼─┼─┼──┼┼┼ ┼───┼─┼─┼┼──────┼─────┼┼─┼┼─┼┼─┼┼──┼─┼──
 
 =================================================================================
-Tekrar: 6 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 6 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 34.600µsec        HEK Shuffle: 17.100µsec
+Fisher-Yates Shuffle: 34.600µsec         HEK Shuffle: 17.100µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1021                     Run sayısı (R): 995
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: 0,89                            Z skoru: -0,27
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1021                 Number of Runs (R): 995
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: 0,89                            Z-score: -0,27
+Result: H0                               Result: H0
 
 ─┼─┼───────┼─┼┼─┼┼─┼┼─┼────┼┼──┼─┼┼─┼──┼ ┼┼┼┼┼──┼──┼─┼──┼──┼─┼──┼──┼──┼────┼─┼┼──
 ───┼┼───┼┼──┼─┼──┼────┼────┼┼────┼───┼── ┼─┼┼─┼─┼─┼┼┼──┼┼┼──┼───┼──┼┼┼─┼─┼┼┼┼┼──┼
@@ -384,17 +400,17 @@ Sonuç: H0                                Sonuç: H0
 ┼┼┼─┼─┼──┼────┼─────┼─┼┼┼┼──┼─┼─┼┼┼─┼─┼┼ ┼┼┼──┼┼┼┼┼─┼┼┼┼─┼──┼┼┼┼────┼───┼─┼┼┼┼──┼
 
 =================================================================================
-Tekrar: 7 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 7 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 36.800µsec        HEK Shuffle: 18.800µsec
+Fisher-Yates Shuffle: 36.800µsec         HEK Shuffle: 18.800µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1041                     Run sayısı (R): 956
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: 1,79                            Z skoru: -2,01
-Sonuç: H0                                Sonuç: H1
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1041                 Number of Runs (R): 956
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: 1,79                            Z-score: -2,01
+Result: H0                               Result: H1
 
 ──┼┼──┼─┼┼┼┼┼───┼─┼─┼─┼┼─┼─┼─┼┼─┼─┼──┼┼─ ┼┼───┼─┼─┼┼┼───┼─┼┼┼┼┼┼┼──┼──┼┼───┼──┼┼┼
 ┼┼──┼┼─┼──┼──┼──┼─┼┼┼┼───┼┼┼┼┼─┼┼┼┼┼─┼┼┼ ─┼┼──┼┼┼──┼─┼───┼┼┼─┼┼┼┼┼─┼┼─┼─┼┼┼┼┼──┼─
@@ -448,17 +464,17 @@ Sonuç: H0                                Sonuç: H1
 ─┼┼─────┼──┼┼┼┼┼─┼──┼──────┼──┼┼─┼───┼┼─ ┼─┼─────┼┼┼┼┼─┼┼─┼─┼┼┼───┼─┼┼─┼┼┼───┼───
 
 =================================================================================
-Tekrar: 8 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 8 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 38.100µsec        HEK Shuffle: 18.200µsec
+Fisher-Yates Shuffle: 38.100µsec         HEK Shuffle: 18.200µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1015                     Run sayısı (R): 966
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: 0,63                            Z skoru: -1,57
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1015                 Number of Runs (R): 966
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: 0,63                            Z-score: -1,57
+Result: H0                               Result: H0
 
 ────┼┼──┼──┼┼───┼┼─────┼─┼──────┼─┼───── ─┼┼──┼──┼┼┼─┼┼─┼───┼───┼─┼┼─┼─┼─┼┼─┼─┼──
 ┼┼─┼─┼┼─┼─┼┼────┼─┼┼┼┼┼┼┼─┼┼─┼┼┼─┼┼─┼──┼ ┼┼┼──┼────┼┼┼┼┼┼─┼┼┼┼─┼──┼─┼┼─┼──┼─┼─┼─┼
@@ -512,17 +528,17 @@ Sonuç: H0                                Sonuç: H0
 ─┼┼───┼────┼────┼─┼┼┼────┼┼┼─┼─────┼┼┼┼─ ┼┼┼─┼┼┼┼┼┼┼─┼┼┼┼─┼┼───┼──┼──┼─┼──┼┼┼┼┼──
 
 =================================================================================
-Tekrar: 9 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 9 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 36.700µsec        HEK Shuffle: 18.900µsec
+Fisher-Yates Shuffle: 36.700µsec         HEK Shuffle: 18.900µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 1000                     Run sayısı (R): 1018
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: -0,04                           Z skoru: 0,76
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 1000                 Number of Runs (R): 1018
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: -0,04                           Z-score: 0,76
+Result: H0                               Result: H0
 
 ┼───┼┼┼┼┼┼─┼┼──┼┼┼─┼─┼┼─┼───┼─┼──┼─┼─┼┼┼ ─┼─┼┼┼┼┼────┼┼┼┼┼┼┼┼──┼───┼┼┼─┼┼┼┼┼┼┼──┼
 ───┼───┼┼────┼┼┼────┼┼┼───┼┼─┼┼─┼─┼┼┼┼── ┼──┼┼┼──┼─┼─┼─┼┼─┼─┼┼┼┼┼──┼──┼┼──┼─────┼
@@ -576,17 +592,17 @@ Sonuç: H0                                Sonuç: H0
 ────┼┼┼─┼┼┼┼───┼──┼──┼─┼──┼─┼─┼──┼────┼┼ ┼┼─┼──┼┼────┼┼┼┼┼┼┼┼┼─┼─┼──┼─┼─┼┼─────┼─
 
 =================================================================================
-Tekrar: 10 - Veri Sayısı: 2.000 - Grup Sayısı: 2
+Iteration: 10 - Data count: 2.000 - Group count: 2
 ---------------------------------------------------------------------------------
-Fisher-Yates Shuffle: 36.700µsec        HEK Shuffle: 17.900µsec
+Fisher-Yates Shuffle: 36.700µsec         HEK Shuffle: 17.900µsec
 
-1'lerin sayısı (n1): 1000                1'lerin sayısı (n1): 1000
-0'ların sayısı (n2): 1000                0'ların sayısı (n2): 1000
-Run sayısı (R): 989                      Run sayısı (R): 1012
-Beklenen Run Sayısı (ER): 1001,00        Beklenen Run Sayısı (ER): 1001,00
-Varyans (VR): 499,75                     Varyans (VR): 499,75
-Z skoru: -0,54                           Z skoru: 0,49
-Sonuç: H0                                Sonuç: H0
+Number of 1s (n1): 1000                  Number of 1s (n1): 1000
+Number of 0s (n2): 1000                  Number of 0s (n2): 1000
+Number of Runs (R): 989                  Number of Runs (R): 1012
+Expected Run count (ER): 1001,00         Expected Run count (ER): 1001,00
+Variance (VR): 499,75                    Variance (VR): 499,75
+Z-score: -0,54                           Z-score: 0,49
+Result: H0                               Result: H0
 
 ─┼─┼─────┼──┼┼┼┼┼┼┼┼┼┼┼─┼──┼───┼───┼┼┼── ┼───┼┼┼─┼─────────┼─┼──┼┼─┼┼───┼──┼┼─┼─┼
 ┼────┼────┼──┼──┼─┼─┼─┼─┼┼──┼┼┼┼─┼─┼┼┼─┼ ─────┼┼─┼───┼┼┼┼┼┼───┼┼──┼─┼┼┼──┼┼┼─┼─┼─
@@ -639,7 +655,7 @@ Sonuç: H0                                Sonuç: H0
 ┼┼─┼┼┼┼┼┼┼─┼───┼───────┼─┼──┼┼───┼┼┼──┼─ ───┼───┼──┼┼─────┼─┼┼──┼┼┼──┼─┼─┼┼──────
 ┼┼┼┼──┼─┼┼──┼─┼──┼┼┼┼─┼┼┼┼┼┼────┼──┼┼┼┼┼ ┼───┼─┼┼────┼┼──┼┼─┼───────┼───┼──┼┼┼──┼
 
-Fisher-Yates Zamanları (35.710µsec): [0.0000353, 0.0000341, 0.0000350, 0.0000358, 0.0000340, 0.0000346, 0.0000368, 0.0000381, 0.0000367, 0.0000367]
-HEK Zamanları          (17.660µsec): [0.0000175, 0.0000167, 0.0000184, 0.0000167, 0.0000164, 0.0000171, 0.0000188, 0.0000182, 0.0000189, 0.0000179]
+Fisher-Yates Shuffle Times (35.710µsec): [0.0000353, 0.0000341, 0.0000350, 0.0000358, 0.0000340, 0.0000346, 0.0000368, 0.0000381, 0.0000367, 0.0000367]
+HEK Shuffle Times          (17.660µsec): [0.0000175, 0.0000167, 0.0000184, 0.0000167, 0.0000164, 0.0000171, 0.0000188, 0.0000182, 0.0000189, 0.0000179]
 
-Ortalama Kazanç %: 50.55
+Average efficiency %: 50.55

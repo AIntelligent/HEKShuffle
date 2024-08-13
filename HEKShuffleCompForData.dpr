@@ -680,7 +680,7 @@ Public License instead of this License.  But first, please read
                  hek@nula.com.tr,
                  ORCID:0000-0002-3952-7235
 *)
-program HEKShuffleForData3(Output);
+program HEKShuffleForData(Output);
 
 {$APPTYPE CONSOLE}
 

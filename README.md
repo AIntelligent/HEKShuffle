@@ -2,7 +2,7 @@
 
 For the analysis of the two algorithms, a non-random sequence adapted for the "Runs Test" consisting of 200,000 data points was used. Both sequences consist of 2, 4, and 8 Runs, and each Run is placed sequentially. The initial patterns of the sequences are as follows:
 
-Let N denote the sequence size.
+Let N represent the length of the array.
 
   	Runs 2: {0..0(N/2),1..1(N/2)}
   	Runs 4: {0..0(N/4),1..1(N/4),....,0..0(N/4),1..1(N/4)}
@@ -14,7 +14,7 @@ The "Runs Test" was used for randomness analysis, and the "Mann-Whitney U Test" 
 
 İki algoritmanın analizi için 200.000 veriden oluşan "Runs Test" için uyarlanmış rastgele olmayan dizi kullanılmıştır. İki dizi de 2, 4 ve 8 Runs'tan oluşmakta ve her iki Run ardışık olarak yerleştirilmektedir. Dizilerin başlangıç desenleri aşağıdadır:
 	
-N dizi boyutun göstermek üzere.
+N dizinin eleman sayısını göstermek üzere.
  
 	Runs 2: {0..0(N/2),1..1(N/2)}
 	Runs 4: {0..0(N/4),1..1(N/4),....,0..0(N/4),1..1(N/4)}

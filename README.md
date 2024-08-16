@@ -1,2 +1,4 @@
 # HEKShuffle
-HEK Shuffle Algorithm Analysis
+Analysis of Fisher-Yates and HEK shuffle algorithms.
+
+

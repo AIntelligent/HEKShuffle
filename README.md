@@ -10,11 +10,9 @@ Let N denote the sequence size.
 
 The "Runs Test" was used for randomness analysis, and the "Mann-Whitney U Test" was used to compare performance data. The graphs related to the results are provided below:
 
-# Fisher-Yates ve HEK karıştırma algoritmalarının performans analizi.
+# Fisher-Yates ve HEK Karıştırma Algoritmalarının Performans Analizi
 
-İki algoritmanın analizi için 200.000 veriden oluşan "Runs Test" için uyarlanmış rastgele olmayan dizi kullanılmıştır. 
-İki dizi de 2, 4 ve 8 Runs'tan oluşmakta ve her iki Run ardışık olarak yerleştirilmektedir. Dizilerin başlangıç desenleri
-aşağıdadır:
+İki algoritmanın analizi için 200.000 veriden oluşan "Runs Test" için uyarlanmış rastgele olmayan dizi kullanılmıştır. İki dizi de 2, 4 ve 8 Runs'tan oluşmakta ve her iki Run ardışık olarak yerleştirilmektedir. Dizilerin başlangıç desenleri aşağıdadır:
 	
 N dizi boyutun göstermek üzere.
  

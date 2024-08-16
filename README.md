@@ -25,4 +25,7 @@ N dizi boyutun göstermek üzere.
 şeklindedir. Rastgelelik analizi için "Runs Test" ve performans verilerinin karşılaştırılması için "Mann-Whitney U Test" 
 kullanılmıştır. Aşağıda sonuçlarla ilgili grafikler verilmiştir:
 
-![FYHEK2](https://github.com/AIntelligent/MSDOS/blob/67b94596f017f2fb15260b0b2d160adae3821ca3/ANTI-CCC/screenshots/ANTI-CCC_1.PNG)
+![FYHEK2](https://github.com/AIntelligent/HEKShuffle/blob/736dfc9e04a429f27f3e83ef9d194515ec5388a6/FYHEK2.png)
+![FYHEK4](https://github.com/AIntelligent/HEKShuffle/blob/736dfc9e04a429f27f3e83ef9d194515ec5388a6/FYHEK2.png)
+![FYHEK8](https://github.com/AIntelligent/HEKShuffle/blob/736dfc9e04a429f27f3e83ef9d194515ec5388a6/FYHEK2.png)
+

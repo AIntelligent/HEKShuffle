@@ -27,8 +27,8 @@ kullanılmıştır. Aşağıda sonuçlarla ilgili grafikler verilmiştir:
 ![FYHEK2](https://github.com/AIntelligent/HEKShuffle/blob/501b605f27017b189e257a2f995b7cdc520b9aa7/FYHEK2.png)
 
 ## Runs 4, R=0.25
-![FYHEK4](https://github.com/AIntelligent/HEKShuffle/blob/736dfc9e04a429f27f3e83ef9d194515ec5388a6/FYHEK4.png)
+![FYHEK4](https://github.com/AIntelligent/HEKShuffle/blob/501b605f27017b189e257a2f995b7cdc520b9aa7/FYHEK4.png)
 
 ## Runs 8, R=0.125
-![FYHEK8](https://github.com/AIntelligent/HEKShuffle/blob/736dfc9e04a429f27f3e83ef9d194515ec5388a6/FYHEK8.png)
+![FYHEK8](https://github.com/AIntelligent/HEKShuffle/blob/501b605f27017b189e257a2f995b7cdc520b9aa7/FYHEK8.png)
 

@@ -1,6 +1,6 @@
 # Performance Analysis of Fisher-Yates and HEK Shuffle Algorithms
 
-For the analysis of the two algorithms, a non-random sequence adapted for the "Runs Test" consisting of 200,000 data points was used. Both sequences consist of 2, 4, and 8 Runs, and each Run is placed sequentially. The initial patterns of the sequences are as follows:
+For the analysis of the two algorithms, a non-random sequence adapted for the "Runs Test" consisting of 200000 data points was used. Both sequences consist of 2, 4, and 8 Runs, and each Run is placed sequentially. The initial patterns of the sequences are as follows:
 
 Let N represent the length of the array.
 
